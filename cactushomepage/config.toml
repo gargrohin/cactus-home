@@ -1,0 +1,5 @@
+baseURL = "https://gargrohin.github.io/"
+languageCode = "en-us"
+title = "Home"
+theme="cactus"
+
