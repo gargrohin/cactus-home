@@ -1,6 +1,6 @@
 baseURL = "https://gargrohin.github.io/"
 languageCode = "en-us"
-title = "Home"
+title = "Rohin Garg"
 theme="cactus"
 
 # Main menu which appears below site header.
@@ -27,12 +27,12 @@ weight = 4
 
 [params]
 
-  colortheme = "dark" # dark, light, white, or classic
-  rss = true # generate rss feed. default value is false
-  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+  colortheme = "classic" # dark, light, white, or classic
+  rss = false # generate rss feed. default value is false
+  googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Site Under Construction. This is an example Site."
+  description = "Hi! Welcome to my little corner on the internet. My name is Rohin. I currently program robots to see, think and move at UCSD. "
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
