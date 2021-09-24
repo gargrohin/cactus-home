@@ -9,15 +9,15 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[menu.main]]
-name = "Writings"
-url = "/posts"
-weight = 2
+# [[menu.main]]
+# name = "Writings"
+# url = "/posts"
+# weight = 2
 
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 4
+# [[menu.main]]
+# name = "About"
+# url = "/about"
+# weight = 4
 
 [markup]
   [markup.tableOfContents]
@@ -32,7 +32,7 @@ weight = 4
   googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Hi! Welcome to my little corner on the internet. My name is Rohin. I currently program robots to see, think and move at UCSD. "
+  description = "Hi! Welcome to my little corner on the internet. My name is Rohin. I currently program robots to see, think and move at UCSD Contextual Robotics Institute. What I really want to do is solve problems using technology and by working with people with different backgrounds and skills. Maybe that's why I chose to study Robotics and CS. But I also like to tinker with design tech, study about (decentralized) financial tech, and brush my software engineeirng skills whenever possible. <p> Check out the above sections to know more about my work! </p>"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -41,7 +41,7 @@ weight = 4
   projectsUrl = "https://github.com/gohugoio" # title link for projects list
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
-  dateFormat = "2006-01-02" # default
+  dateFormat = "2006-01-02" # default 
 
   # Post page settings
   show_updated = false # default
@@ -54,10 +54,10 @@ weight = 4
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "github"
-    link = "https://github.com/gohugoio"
+    link = "https://github.com/gargrohin"
   [[params.social]]
     name = "linkedin"
-    link = "https://www.linkedin.com/company/github/"
+    link = "https://www.linkedin.com/in/rohin-garg-953643151/#"
   [[params.social]]
     name = "email"
-    link = "example@example.com"  # no need for "mailto:" in the head
+    link = "gargrohin0@gmail.com"  # no need for "mailto:" in the head
